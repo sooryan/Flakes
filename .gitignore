@@ -1,1 +1,6 @@
 *.o
+*.bin
+*.iso
+isodir/
+grub.cfg
+
